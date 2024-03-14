@@ -1,0 +1,16 @@
+F:\Coding Practice\WFDemoApp\WFDemo\bin\Debug\net8.0-windows\WFDemo.exe
+F:\Coding Practice\WFDemoApp\WFDemo\bin\Debug\net8.0-windows\WFDemo.deps.json
+F:\Coding Practice\WFDemoApp\WFDemo\bin\Debug\net8.0-windows\WFDemo.runtimeconfig.json
+F:\Coding Practice\WFDemoApp\WFDemo\bin\Debug\net8.0-windows\WFDemo.dll
+F:\Coding Practice\WFDemoApp\WFDemo\bin\Debug\net8.0-windows\WFDemo.pdb
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.Form1.resources
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.csproj.GenerateResource.cache
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.AssemblyInfoInputs.cache
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.AssemblyInfo.cs
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.csproj.CoreCompileInputs.cache
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.dll
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\refint\WFDemo.dll
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.pdb
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\WFDemo.genruntimeconfig.cache
+F:\Coding Practice\WFDemoApp\WFDemo\obj\Debug\net8.0-windows\ref\WFDemo.dll
